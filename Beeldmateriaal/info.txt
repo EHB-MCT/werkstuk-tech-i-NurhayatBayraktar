@@ -1,5 +1,9 @@
 Hierin zet je foto materiaal, zorg voor volgende fotos:
 
 * foto's van je breadboard met de kabels, zodat alle connecties zichtbaar zijn
-* foto's van je eindresultaat
+* foto's van je eindresultaat 
 * foto's of video van de interactie
+
+(Er ontbreekt een kleine pin in de einde resultaat. 
+Mijn twee leds van onder werken ook niet meer. 
+Waarschijnelijk heb ik ze gekneuzd of gebroken in mijn boekentas...)
